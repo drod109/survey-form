@@ -97,6 +97,6 @@ button:hover {
 }
 @media screen and (max-width: 480px) {
     .form-container {
-        width: 65vw;
+        width: 95vw;
     }
 }
